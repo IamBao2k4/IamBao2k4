@@ -73,4 +73,4 @@ If you want to connect or discuss collaboration opportunities, feel free to cont
 
 ---
 
-Thank you for visiting my page! Let's build great things together! 🚀
+Thank you for visiting my profile! 🚀
