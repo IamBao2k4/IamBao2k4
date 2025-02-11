@@ -1,17 +1,15 @@
 # Hi, I'm Gia Bao! 👋
 
-![Banner or profile picture](https://drive.google.com/file/d/1WmPEfFhE_UD4lKbto91eEtyzN2xx1PcH/view?usp=drivesdk) <!-- Optional -->
-
 ## About
 I'm 3rd year student at **Ho Chi Minh City University of Science**, I majored in software engineering. I'm trying day by day to become a good developer.
 
 ---
 
 ## Personal Information
-- **Full Name**: [Phan Minh Gia Bảo]
-- **Email**: [pmgbao2004@gmail.com]
+- **Full Name**: Phan Minh Gia Bảo
+- **Email**: pmgbao2004@gmail.com
 - **GitHub**: [IamBao2k4](https://github.com/IamBao2k4)
-- **Location**: [Phường Linh Trung, Thành phố Thủ Đức]
+- **Location**: Phường Linh Trung, Thành phố Thủ Đức
 
 ---
 
@@ -62,7 +60,7 @@ When not programming, I like to:
 
 - Play sports (soccer, badminton).
 
-- Explore new technologies and participate in tech meetups.
+- Play game with my friends.
 
 - Cooking.
 
@@ -70,7 +68,7 @@ When not programming, I like to:
 
 ## Contact
 If you want to connect or discuss collaboration opportunities, feel free to contact me:
-- **Email**: [pmgbao2004@gmail.com]
+- **Email**: pmgbao2004@gmail.com
 - **GitHub**: [ImBao2k4](https://github.com/IamBao2k4)
 
 ---
