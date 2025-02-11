@@ -1,20 +1,17 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Gia Bao! 👋
 
-![Banner or profile picture](path/to/your/image.png) <!-- Optional -->
+![Banner or profile picture](https://drive.google.com/file/d/1WmPEfFhE_UD4lKbto91eEtyzN2xx1PcH/view?usp=drivesdk) <!-- Optional -->
 
 ## About
-I'm a **Software Engineering Intern** who is learning and developing skills in the field of software engineering. I'm passionate about building high-quality software applications, optimizing user experiences, and learning new technologies.
-
-Currently, I'm interning at **[Company Name]**, where I get to work on real-world projects and learn from industry experts. I'm always looking for opportunities to grow and contribute to meaningful projects.
+I'm 3rd year student at **Ho Chi Minh City University of Science**, I majored in software engineering. I'm trying day by day to become a good developer.
 
 ---
 
 ## Personal Information
-- **Full Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Name](https://linkedin.com/in/yourprofile)
-- **Location**: [City, Country]
+- **Full Name**: [Phan Minh Gia Bảo]
+- **Email**: [pmgbao2004@gmail.com]
+- **GitHub**: [IamBao2k4](https://github.com/IamBao2k4)
+- **Location**: [Phường Linh Trung, Thành phố Thủ Đức]
 
 ---
 
@@ -22,59 +19,59 @@ Currently, I'm interning at **[Company Name]**, where I get to work on real-worl
 Here are some of the skills and technologies I am learning and using:
 
 ### Programming Languages
-- Python, JavaScript, Java, C++
+- C#, C++, JavaScript, Java.
 - HTML, CSS
 
 ### Technologies and Frameworks
-- React, Node.js, Express
-- Django, Flask
-- Git, Docker
+- ReactJS, Node.js, ExpressJS
+- WinUI
+- Git, Supabase (similar as Firebase)
 
 ### Development Tools
 - Visual Studio Code, IntelliJ IDEA
-- Postman, Swagger
-- MySQL, MongoDB
+- MySQL, MongoDB, Postgres
 
 ---
 
 ## Featured Projects
-Here are some of the Projects I've worked on or done myself:
+Here are some of the Projects I've worked on:
 
-### 1. [Project Name]
-- **Description**: A web application for managing tasks (To-Do List) built with React and Node.js.
+### 1. [Furniro]
+- **Description**: A web application for saling and managing furniture built with ExpressJS and Node.js.
 
-- **Technology**: React, Node.js, MongoDB
-- **GitHub Link**: [GitHub Repo](https://github.com/yourusername/project-name)
+- **Technology**: ExpressJS, Node.js, MongoDB
+- **GitHub User site Link**: [GitHub Repo](https://github.com/BlackTran-fullstack/Project_Web)
+- **GitHub Admin site Link**: [GitHub Repo](https://github.com/BlackTran-fullstack/Admin_Project_Web)
 
-### 2. [Project Name]
-- **Description**: A machine learning application to predict house prices based on historical data.
+### 2. [BC_Market]
+- **Description**: A desktop application for saling and managing goods built with WinUI.
 
-- **Technology**: Python, Scikit-learn, Pandas
-- **GitHub Link**: [GitHub Repo](https://github.com/yourusername/project-name)
+- **Technology**: WinUI, Supabase.
+- **GitHub Link**: [GitHub Repo](https://github.com/DuongThienChi/BC_Market)
 
 ---
 
 ## Goals
-- **Short-term**: Successfully complete the internship, learn more about software architecture and Agile development process.
+- **Short-term**: Take an internship, learn more about software architecture and development process.
 - **Long-term**: Become a full-stack software engineer, contribute to open source projects and build products that benefit the community.
 
 ---
 
 ## Hobbies
 When not programming, I like to:
-- Read books about technology and self-development.
 
 - Play sports (soccer, badminton).
 
 - Explore new technologies and participate in tech meetups.
 
+- Cooking.
+
 ---
 
 ## Contact
 If you want to connect or discuss collaboration opportunities, feel free to contact me:
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Name](https://linkedin.com/in/yourprofile)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: [pmgbao2004@gmail.com]
+- **GitHub**: [ImBao2k4](https://github.com/IamBao2k4)
 
 ---
 
