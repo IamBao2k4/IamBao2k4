@@ -17,8 +17,7 @@ I'm 3rd year student at **Ho Chi Minh City University of Science**, I majored in
 Here are some of the skills and technologies I am learning and using:
 
 ### Programming Languages
-- C#, C++, JavaScript, Java.
-- HTML, CSS
+- C#, C++, TypeScript, Java.
 
 ### Technologies and Frameworks
 - ReactJS, Node.js, ExpressJS
