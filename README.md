@@ -20,7 +20,7 @@ Here are some of the skills and technologies I am learning and using:
 - C#, C++, TypeScript, Java.
 
 ### Technologies and Frameworks
-- ReactJS, Node.js, ExpressJS
+- ReactJS, Node.js, ExpressJS, NestJS
 - WinUI
 - Git, Supabase (similar as Firebase)
 
