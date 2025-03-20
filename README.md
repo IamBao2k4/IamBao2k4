@@ -27,7 +27,8 @@ Here are some of the skills and technologies I am learning and using:
 ### Development Tools
 - Visual Studio Code, IntelliJ IDEA
 - MySQL, MongoDB, Postgres
-
+- Postman
+- Jenkins
 ---
 
 ## Featured Projects
