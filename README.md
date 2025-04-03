@@ -29,6 +29,10 @@ Here are some of the skills and technologies I am learning and using:
 - MySQL, MongoDB, Postgres
 - Postman
 - Jenkins
+
+### Others
+- RESTful APIs
+- Vite
 ---
 
 ## Featured Projects
