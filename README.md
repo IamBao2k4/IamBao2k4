@@ -22,17 +22,16 @@ Here are some of the skills and technologies I am learning and using:
 ### Technologies and Frameworks
 - ReactJS, Node.js, ExpressJS, NestJS
 - WinUI
+- RESTful APIs
+- Vite
+- Devops
 - Git, Supabase (similar as Firebase)
 
 ### Development Tools
 - Visual Studio Code, IntelliJ IDEA
 - MySQL, MongoDB, Postgres
 - Postman
-- Jenkins
 
-### Others
-- RESTful APIs
-- Vite
 ---
 
 ## Featured Projects
