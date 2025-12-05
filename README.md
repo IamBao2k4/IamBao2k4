@@ -1,7 +1,7 @@
 # Hi, I'm Gia Bao! 👋
 
 ## About
-I'm 3rd year student at **Ho Chi Minh City University of Science**, I majored in software engineering. I'm trying day by day to become a good developer.
+I'm 4th year student at **Ho Chi Minh City University of Science**, I majored in software engineering. I'm trying day by day to become a good developer.
 
 ---
 
